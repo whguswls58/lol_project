@@ -8,5 +8,6 @@
 </head>
 <body>
 테스트용 페이지
+<a href="test">테스트</a>
 </body>
 </html>
