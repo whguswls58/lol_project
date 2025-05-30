@@ -25,6 +25,8 @@ repositories {
 }
 
 dependencies {
+	// json-simple
+	implementation 'com.googlecode.json-simple:json-simple:1.1.1'
 	// jsp
 	implementation 'org.apache.tomcat.embed:tomcat-embed-jasper'
 	// jakarta jstl

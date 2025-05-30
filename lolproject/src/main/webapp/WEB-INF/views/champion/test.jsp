@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>테스트용 페이지</title>
+<title>Insert title here</title>
 </head>
 <body>
 테스트용 페이지
-<a href="championUpdate">테스트</a>
 </body>
 </html>
